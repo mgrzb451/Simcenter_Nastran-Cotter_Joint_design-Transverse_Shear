@@ -25,4 +25,4 @@ This is the case that prompted me to research exactly how 2D shell elements hand
 Try as I might I was unable to achieve satisfactory results through analyzing just the cotter. The requirement to remove all degrees of freedom to achieve convergence resulted in me over stiffening the component and reporting spurious results ☹
 <img width="1500" height="780" alt="image" src="https://github.com/mgrzb451/Simcenter_Nastran-Cotter_Joint_design-Transverse_Shear/blob/main/assets/cotter_only.jpg" />
 
-[Back to Top](https://github.com/mgrzb451/Simcenter_Nastran-Cotter_Joint_design-Transverse_Shear/new/main?filename=README.md#simcenter-nastran---cotter-joint-design---transverse-shear)
+[Back to Top](#Simcenter-Nastran---Cotter-Joint-Design---Transverse-Shear)
